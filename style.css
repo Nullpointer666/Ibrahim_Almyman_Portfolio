@@ -232,13 +232,13 @@ span{
         content: "Web Developer";
     }
     41%, 60%{
-        content: "Cloud Computing intern";
+        content: "Student at school";
     }
     61%, 80%{
-        content: "machine learning intern";
+        content: "Hacker";
     }
     81%, 100%{
-        content: "Data Science intern";
+        content: "Gamer";
     }
 }
 
